@@ -1,7 +1,0 @@
-<html>
-<head>
-</head>
-<body>
-<h1>김민지 저장소</h1>
-</body>
-</html>
